@@ -7,6 +7,19 @@
   pointer-events: none;
 }
 
+.vt-line{
+  background: linear-gradient(#FC5D73,#FF993F);
+  width:2px;
+  height:10vh;
+  margin-left:24px;
+  clear: left;
+  border: none;
+  opacity: 100%;
+
+}
+
+
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
